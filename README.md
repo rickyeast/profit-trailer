@@ -1,7 +1,6 @@
 ProfitTrailer for Docker
 ------------------------
-
-I have updated image to include ubuntu and sdk8 images seperately which seems to have profit trailer running without crashing.
+Sdk8 images seperately which seems to have profit trailer running without crashing.
 
 
 **ProfitTrailer** is a smart crypto currency trading bot. It gives you the ability to trade using different exchanges in a fast and simple way.
