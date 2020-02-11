@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:15-ea-9-slim-buster
 
 ENV PT_VERSION=2.4.15
 ENV PT_DL=https://github.com/taniman/profit-trailer/releases/download/${PT_VERSION}/ProfitTrailer-${PT_VERSION}.zip
