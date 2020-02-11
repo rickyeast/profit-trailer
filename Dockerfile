@@ -1,4 +1,3 @@
-FROM ubuntu:latest
 FROM openjdk:8
 
 ENV PT_VERSION=2.4.15
