@@ -1,4 +1,4 @@
-FROM openjdk
+FROM openjdk:10-alpine
 
 ENV PT_VERSION=2.4.16
 ENV PT_DL=https://github.com/taniman/profit-trailer/releases/download/${PT_VERSION}/ProfitTrailer-${PT_VERSION}.zip
